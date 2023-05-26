@@ -1,7 +1,6 @@
 # Bridge Pavement Defect Datasets
-## Instruction
   Hello and welcome to my GitHub! I'm excited to introduce you to two unique datasets - **BridgeDefX** and **BridgeDef20** - which center around the much-needed area of bridge pavement defect segmentation. 
-
+## Introduction
   As highlighted in my recently submitted academic paper, there's a significant lack of public datasets dedicated to bridge pavement defects. To fill this void, I've embarked on creating these two distinct collections. 
 
   BridgeDefX focuses on motor vehicle lanes on bridges, primarily involving asphalt and cement. On the other hand, BridgeDef20 zeros in on non-motorized lanes, particularly those made with granite blocks. In contrast to the current open-source pavement defect datasets, which are predominantly focused on a single type of defect—namely, cracking—BridgeDefX and BridgeDef20 stand apart by encompassing a far more diverse range of defects. 
